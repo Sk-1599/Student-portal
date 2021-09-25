@@ -1,0 +1,9 @@
+{
+    "launch": {
+    
+        "javascript.validate.enable":false,
+        "css.validate":false,
+        "configurations": [],
+        "compounds": []
+    }
+}
